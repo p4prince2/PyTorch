@@ -2,7 +2,7 @@
 PyTorch From Scratch: Basics to Advanced 
 This repository is a comprehensive guide and hands-on implementation of PyTorch, designed to take you from the fundamentals of deep learning to advanced concepts and real-world projects. Whether you're a beginner looking to understand the core mechanics or an experienced developer wanting to deepen your knowledge, this repo has something for you.
 
-##What's Inside?
+## What's Inside?
 # Core Concepts
 
 Tensors and basic operations
@@ -15,7 +15,7 @@ Custom datasets and dataloaders
 
 Model training and evaluation loop
 
-#Intermediate Topics
+# Intermediate Topics
 
 CNNs and image classification
 
@@ -27,7 +27,7 @@ Optimization techniques
 
 Learning rate schedulers and regularization
 
- #Advanced Topics
+# Advanced Topics
 
 Custom loss functions and layers
 
@@ -58,5 +58,5 @@ Edit
   - training_loop.py
 
 
-#Goal: 
+# Goal: 
         Build an intuitive and structured PyTorch learning path that grows with you—from beginner experiments to production-ready models.
